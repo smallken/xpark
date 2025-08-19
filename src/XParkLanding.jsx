@@ -299,7 +299,7 @@ const translations = {
 };
 
 export default function XParkLanding() {
-  const [lang, setLang] = useState('zh');
+  const [lang, setLang] = useState('en');
   const t = useMemo(() => translations[lang], [lang]);
 
   useEffect(() => {
