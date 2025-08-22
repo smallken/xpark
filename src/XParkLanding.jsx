@@ -499,7 +499,7 @@ export default function XParkLanding() {
               <h3>{t.footer.aboutTitle}</h3>
               <p>{t.footer.aboutDesc}</p>
               <div className="social-links">
-                <a href="#" aria-label="Twitter"><i className="fab fa-twitter" /></a>
+                <a href="https://x.com/XPark_RWA" aria-label="Twitter"><i className="fab fa-twitter" /></a>
                 <a href="#" aria-label="Discord"><i className="fab fa-discord" /></a>
                 <a href="#" aria-label="Telegram"><i className="fab fa-telegram" /></a>
                 <a href="#" aria-label="Medium"><i className="fab fa-medium" /></a>
